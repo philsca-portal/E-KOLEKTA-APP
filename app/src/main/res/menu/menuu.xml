@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/home"/>
+        <item
+            android:id="@+id/nav_account"
+            android:title="My Account"
+            android:icon="@drawable/account"/>
+        <item
+            android:id="@+id/nav_logs"
+            android:title="User Log"
+            android:icon="@drawable/account"/>
+        <item
+            android:id="@+id/nav_news"
+            android:title="News"
+            android:icon="@drawable/newspaper"/>
+        <item
+            android:id="@+id/nav_capture"
+            android:title="Capture"
+            android:icon="@drawable/camera"/>
+        <item
+            android:id="@+id/nav_how"
+            android:title="How to?"
+            android:icon="@drawable/questions"/>
+        <item
+            android:id="@+id/nav_schedule"
+            android:title="Schedule"
+            android:icon="@drawable/schedule"/>
+    </group>
+
+
+
+</menu>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">E-KOLEKTA</string>
+    <string name="firstslidetitle">Get Updated!</string>
+    <string name="secondslidetitle">Submit Report!</string>
+    <string name="thirdslidetitle">Know More!</string>
+    <string name="fourthslidetitle">Get Rewards!</string>
+    <string name="firstslidedescription">You will be informed about the barangays waste management news such as garbage collection schedule and more updates.</string>
+    <string name="secondslidedescription">You will be able to submit reports to inform the barangay of littering and other waste management issues by submitting photos and their location.</string>
+    <string name="thirdslidedescription">You will be able to know the location and contact details of junk shops or other initiatives based in the barangay.</string>
+    <string name="fourthslidedescription">With your contribution of reports, you can get rewards!</string>
+    <string name="logo_name">TOTAL LITTER DATA</string>
+
+    <string-array name="tag">
+        <item>Bottle</item>
+        <item>Cardboard</item>
+        <item>Chalkboard Eraser</item>
+        <item>Cigarette Butt</item>
+        <item>Facemask</item>
+        <item>Fire Extinguisher</item>
+        <item>Garbage Pile</item>
+        <item>Human</item>
+        <item>Id</item>
+        <item>Keyboard</item>
+        <item>Leaf</item>
+        <item>Monitor</item>
+        <item>Mouse</item>
+        <item>Paper</item>
+        <item>Paper Cup</item>
+        <item>Paper Package</item>
+        <item>Paper Plate</item>
+        <item>Plastic</item>
+        <item>Plastic Chair</item>
+        <item>Plastic Cup</item>
+        <item>Plastic Mold</item>
+        <item>Plastic Straw</item>
+        <item>Plastic Utensils</item>
+        <item>Printer</item>
+        <item>Stick</item>
+        <item>Styrofoam</item>
+        <item>Wall Switch</item>
+        <item>Watch</item>
+        <item>Wrapper</item>
+        <item>Paper Plate</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>Biodegradable</item>
+        <item>Non-Biodegradable</item>
+        <item>Recyclable</item>
+    </string-array>
+</resources>

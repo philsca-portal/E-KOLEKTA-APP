@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "526994641839",
+    "firebase_url": "https://e-kalat-default-rtdb.firebaseio.com",
+    "project_id": "e-kalat",
+    "storage_bucket": "e-kalat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526994641839:android:99caab8e94c502363c955a",
+        "android_client_info": {
+          "package_name": "com.example.e_kalat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526994641839-a8crhhke5ma4l6k6o41brh69ft9tbjan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_kalat",
+            "certificate_hash": "3ae507d59bc22b549c6252fcd3368310f25865d5"
+          }
+        },
+        {
+          "client_id": "526994641839-ool91bh1t7kb223mgqhhflqhjocvbfg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcRnly-8kyfYILvP0OII5ciC5uA4RQun0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526994641839-ool91bh1t7kb223mgqhhflqhjocvbfg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

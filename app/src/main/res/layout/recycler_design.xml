@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="160dp"
+    android:layout_height="300dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="2dp"
+    app:cardElevation="8dp"
+    android:layout_margin="10dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:orientation="vertical"
+        android:background="@color/white">
+
+        <ImageView
+            android:id="@+id/recycler_image"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:src="@drawable/empty"
+            android:scaleType="centerCrop"/>
+        <TextView
+            android:id="@+id/recycler_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/bungee"/>
+
+        <TextView
+            android:id="@+id/recycler_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Description of first recycleview.Jico san Buenaventura panget mo tanga."
+            android:textSize="11sp"
+            android:textColor="#A6A6A6"/>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
